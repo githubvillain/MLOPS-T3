@@ -7,17 +7,17 @@
           <hudson.model.Cause_-UpstreamCause>
             <upstreamProject>StartTraining</upstreamProject>
             <upstreamUrl>job/StartTraining/</upstreamUrl>
-            <upstreamBuild>2</upstreamBuild>
+            <upstreamBuild>6</upstreamBuild>
             <upstreamCauses>
               <hudson.model.Cause_-UpstreamCause>
                 <upstreamProject>LaunchContainerAndLoadFiles</upstreamProject>
                 <upstreamUrl>job/LaunchContainerAndLoadFiles/</upstreamUrl>
-                <upstreamBuild>7</upstreamBuild>
+                <upstreamBuild>11</upstreamBuild>
                 <upstreamCauses>
                   <hudson.model.Cause_-UpstreamCause>
                     <upstreamProject>DownloadData</upstreamProject>
                     <upstreamUrl>job/DownloadData/</upstreamUrl>
-                    <upstreamBuild>16</upstreamBuild>
+                    <upstreamBuild>20</upstreamBuild>
                     <upstreamCauses>
                       <hudson.model.Cause_-UserIdCause>
                         <userId>admin</userId>
@@ -33,11 +33,11 @@
       </causeBag>
     </hudson.model.CauseAction>
   </actions>
-  <queueId>29</queueId>
-  <timestamp>1589668870080</timestamp>
-  <startTime>1589668870118</startTime>
-  <result>FAILURE</result>
-  <duration>692</duration>
+  <queueId>57</queueId>
+  <timestamp>1589674560779</timestamp>
+  <startTime>1589674560785</startTime>
+  <result>SUCCESS</result>
+  <duration>2393</duration>
   <charset>UTF-8</charset>
   <keepLog>false</keepLog>
   <builtOn></builtOn>

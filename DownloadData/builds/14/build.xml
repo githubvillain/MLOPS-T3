@@ -7,10 +7,10 @@
           <hudson.model.Cause_-UpstreamCause>
             <upstreamProject>StartTraining</upstreamProject>
             <upstreamUrl>job/StartTraining/</upstreamUrl>
-            <upstreamBuild>8</upstreamBuild>
+            <upstreamBuild>13</upstreamBuild>
             <upstreamCauses>
               <hudson.model.Cause_-RemoteCause>
-                <addr>192.168.43.113</addr>
+                <addr>192.168.43.194</addr>
               </hudson.model.Cause_-RemoteCause>
             </upstreamCauses>
           </hudson.model.Cause_-UpstreamCause>
@@ -19,11 +19,11 @@
       </causeBag>
     </hudson.model.CauseAction>
   </actions>
-  <queueId>62</queueId>
-  <timestamp>1589674875885</timestamp>
-  <startTime>1589674875914</startTime>
+  <queueId>91</queueId>
+  <timestamp>1589678631676</timestamp>
+  <startTime>1589678631681</startTime>
   <result>SUCCESS</result>
-  <duration>1673</duration>
+  <duration>4317</duration>
   <charset>UTF-8</charset>
   <keepLog>false</keepLog>
   <builtOn></builtOn>

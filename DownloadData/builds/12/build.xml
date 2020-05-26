@@ -7,21 +7,19 @@
           <hudson.model.Cause_-UpstreamCause>
             <upstreamProject>StartTraining</upstreamProject>
             <upstreamUrl>job/StartTraining/</upstreamUrl>
-            <upstreamBuild>2</upstreamBuild>
+            <upstreamBuild>11</upstreamBuild>
             <upstreamCauses>
               <hudson.model.Cause_-UpstreamCause>
                 <upstreamProject>LaunchContainerAndLoadFiles</upstreamProject>
                 <upstreamUrl>job/LaunchContainerAndLoadFiles/</upstreamUrl>
-                <upstreamBuild>7</upstreamBuild>
+                <upstreamBuild>12</upstreamBuild>
                 <upstreamCauses>
                   <hudson.model.Cause_-UpstreamCause>
                     <upstreamProject>DownloadData</upstreamProject>
                     <upstreamUrl>job/DownloadData/</upstreamUrl>
-                    <upstreamBuild>16</upstreamBuild>
+                    <upstreamBuild>21</upstreamBuild>
                     <upstreamCauses>
-                      <hudson.model.Cause_-UserIdCause>
-                        <userId>admin</userId>
-                      </hudson.model.Cause_-UserIdCause>
+                      <hudson.model.Cause_-UserIdCause/>
                     </upstreamCauses>
                   </hudson.model.Cause_-UpstreamCause>
                 </upstreamCauses>
@@ -33,11 +31,11 @@
       </causeBag>
     </hudson.model.CauseAction>
   </actions>
-  <queueId>29</queueId>
-  <timestamp>1589668870080</timestamp>
-  <startTime>1589668870118</startTime>
-  <result>FAILURE</result>
-  <duration>692</duration>
+  <queueId>85</queueId>
+  <timestamp>1589678551639</timestamp>
+  <startTime>1589678551644</startTime>
+  <result>SUCCESS</result>
+  <duration>2269</duration>
   <charset>UTF-8</charset>
   <keepLog>false</keepLog>
   <builtOn></builtOn>

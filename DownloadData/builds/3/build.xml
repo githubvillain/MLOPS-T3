@@ -4,26 +4,19 @@
     <hudson.model.CauseAction>
       <causeBag class="linked-hash-map">
         <entry>
-          <hudson.model.Cause_-UpstreamCause>
-            <upstreamProject>StartTraining</upstreamProject>
-            <upstreamUrl>job/StartTraining/</upstreamUrl>
-            <upstreamBuild>8</upstreamBuild>
-            <upstreamCauses>
-              <hudson.model.Cause_-RemoteCause>
-                <addr>192.168.43.113</addr>
-              </hudson.model.Cause_-RemoteCause>
-            </upstreamCauses>
-          </hudson.model.Cause_-UpstreamCause>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>admin</userId>
+          </hudson.model.Cause_-UserIdCause>
           <int>1</int>
         </entry>
       </causeBag>
     </hudson.model.CauseAction>
   </actions>
-  <queueId>62</queueId>
-  <timestamp>1589674875885</timestamp>
-  <startTime>1589674875914</startTime>
+  <queueId>31</queueId>
+  <timestamp>1589669120496</timestamp>
+  <startTime>1589669120502</startTime>
   <result>SUCCESS</result>
-  <duration>1673</duration>
+  <duration>1537</duration>
   <charset>UTF-8</charset>
   <keepLog>false</keepLog>
   <builtOn></builtOn>
